@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\bin\Debug\netcoreapp2.0\SportsRUs.deps.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\bin\Debug\netcoreapp2.0\SportsRUs.runtimeconfig.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\bin\Debug\netcoreapp2.0\SportsRUs.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\bin\Debug\netcoreapp2.0\SportsRUs.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\bin\Debug\netcoreapp2.0\SportsRUs.pdb
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.AssemblyInfo.cs
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs\obj\Debug\netcoreapp2.0\SportsRUs.pdb

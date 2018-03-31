@@ -1,0 +1,17 @@
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.AssemblyInfo.cs
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.Tests.deps.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.Tests.runtimeconfig.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.Tests.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.Tests.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.Tests.pdb
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\bin\Debug\netcoreapp2.0\SportsRUs.pdb
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.csproj.CopyComplete
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.dll
+C:\Users\Peter\source\repos\SportsRUs\SportsRUs.Tests\obj\Debug\netcoreapp2.0\SportsRUs.Tests.pdb
