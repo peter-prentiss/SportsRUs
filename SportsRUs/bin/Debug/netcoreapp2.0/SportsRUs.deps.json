@@ -26,6 +26,7 @@
           "FontAwesome": "4.7.0",
           "Microsoft.AspNetCore.All": "2.0.6",
           "Microsoft.AspNetCore.Http.Extensions": "2.0.2",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.0.2",
           "Microsoft.AspNetCore.Session": "2.0.2",
           "Microsoft.Extensions.Caching.Memory": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0",
