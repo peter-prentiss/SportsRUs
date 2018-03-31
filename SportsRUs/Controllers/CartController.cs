@@ -20,7 +20,7 @@ namespace SportsRUs.Controllers
         {
             return View(new CartIndexViewModel
             {
-                Cart = GetCart(),
+                Cart = cart,
                 ReturnUrl = returnUrl
             });
         }

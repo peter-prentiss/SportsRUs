@@ -23,6 +23,9 @@
           "lib/netstandard1.3/Castle.Core.dll": {}
         }
       },
+      "FontAwesome/4.7.0": {
+        "type": "package"
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -5564,6 +5567,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
+          "FontAwesome": "4.7.0",
           "Microsoft.AspNetCore.All": "2.0.6",
           "Microsoft.AspNetCore.Http.Extensions": "2.0.2",
           "Microsoft.AspNetCore.Session": "2.0.2",
@@ -5600,6 +5604,24 @@
         "lib/netstandard1.3/Castle.Core.dll",
         "lib/netstandard1.3/Castle.Core.xml",
         "readme.txt"
+      ]
+    },
+    "FontAwesome/4.7.0": {
+      "sha512": "n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "type": "package",
+      "path": "fontawesome/4.7.0",
+      "files": [
+        "Content/Content/font-awesome.css",
+        "Content/Content/font-awesome.min.css",
+        "Content/fonts/FontAwesome.otf",
+        "Content/fonts/fontawesome-webfont.eot",
+        "Content/fonts/fontawesome-webfont.svg",
+        "Content/fonts/fontawesome-webfont.ttf",
+        "Content/fonts/fontawesome-webfont.woff",
+        "Content/fonts/fontawesome-webfont.woff2",
+        "fontawesome.4.7.0.nupkg.sha512",
+        "fontawesome.nuspec",
+        "tools/install.ps1"
       ]
     },
     "Libuv/1.10.0": {
